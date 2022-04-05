@@ -8,6 +8,8 @@
 
 <h2>Project Details</h2>
 
+**Project Date:** 2021.03 - 2021.06
+
 **Dev Tools:** HCS192 Microprocessor, Custom SCI program
 
 **Programming Language: C**
